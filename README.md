@@ -35,7 +35,7 @@ This project is an **Information Retrieval system** built to analyze PDF documen
 - **LangChain (for RAG)**
 - **PDF parsing** (pdfplumber )
 - **FAISS** for vector-based retrieval
-- **Streamlit** for UI (choose one based on your implementation)
+- **Streamlit** for UI 
 
 ##  Academic Context
 
